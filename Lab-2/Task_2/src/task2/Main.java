@@ -3,12 +3,12 @@ public class Main {
     public static void main(String[] args){
         Student s1 =new Student();
         s1.setName("Fatima Qaisar");
-        s1.setEmail("fatimaqaisar7917@gmail.com");
+        s1.setEmail("fatima79@gmail.com");
         s1.setCGPA(3.86);
         s1.display();
-        Student s2=new Student("Ayesha Qaisar", "ayesha234579@gamil.com",3.89);
+        Student s2=new Student("Ayesha Imran", "ayesha24@gamil.com",3.89);
         s2.display();
-        Student s3= new Student("Hassan Qaisar", "hassanqaisar2345@gmail.com", 3.65);
+        Student s3= new Student("Hassan Ali", "hassan45@gmail.com", 3.65);
         System.out.println("---Student Details---");
         System.out.println("Name: "+ s3.getName());
         System.out.println("Email: "+ s3.getEmail());
