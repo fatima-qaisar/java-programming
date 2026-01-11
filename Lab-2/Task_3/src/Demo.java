@@ -1,6 +1,5 @@
-package task3;
-
 public class Demo {
+
     public static void main(String[] args) {
         Employee e1=new Employee("Fatima", 37, 59800.85, "Model Town, Lahore");
         e1.display();
