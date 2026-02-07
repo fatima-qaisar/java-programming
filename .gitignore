@@ -1,2 +1,10 @@
+# VS Code
 *.class
 .vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
